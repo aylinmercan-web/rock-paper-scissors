@@ -25,3 +25,5 @@ function tasKagitMakas(kullaniciSecimi) {
 
 }
 console.log(tasKagitMakas("taş"));
+
+//test
