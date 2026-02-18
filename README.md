@@ -2,7 +2,7 @@
 
 This project is a simple implementation of the classic Rock-Paper-Scissors game using JavaScript.
 
- Features
+## 📌 Features
 - Random computer choice
 - User vs computer gameplay
 - Win / Lose / Draw logic
