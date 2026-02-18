@@ -20,5 +20,5 @@ Result: You win!
 
 ---
 
-👩‍💻 Created by Aylin Mercan
+Created by Aylin Mercan
 
